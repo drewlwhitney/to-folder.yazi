@@ -19,7 +19,6 @@ ya pkg add drewlwhitney/to-folder
 `~/.config/yazi/init.lua`:
 
 ```lua
--- optional if not configuring anything
 require("to-folder"):setup({
     --config
 })
