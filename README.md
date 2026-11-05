@@ -38,7 +38,7 @@ desc = "Convert selected file(s) into folders"
 Below are the default settings:
 
 ```lua
-require("just-kidding"):setup({
+require("to-folder"):setup({
     prompt = true,
 })
 ```
